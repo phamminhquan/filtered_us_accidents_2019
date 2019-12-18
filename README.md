@@ -28,3 +28,8 @@ Then RUN ALL
 Here's a map of Jacksonville, FL, severity 4
 
 ![](./example.png)
+
+# TODO:
+
+* Make a GUI by adding widgets and update map based on widgets
+* Efficient coding to reduce runtime

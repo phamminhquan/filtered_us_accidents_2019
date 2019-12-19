@@ -1,8 +1,8 @@
-# US Accidents 2019 filtered by state, city, and severity
-Filter US Accidents 2019 dataset by state, city, and severity and render a map of the city with all accidents marked. This can be used to analyze traffic safety patterns and controls.
+# US Accidents 2016-2019 filtered by state, city, and severity
+Filter US Accidents from Febuary 2016 to March 2019 dataset by state, city, and severity and render a map of the city with all accidents marked. This can be used to analyze traffic safety patterns and controls.
 
 ## Dataset
-US Accicents 2019 dataset is pulled from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+US Accicents 2016-2019 dataset is pulled from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 
 ## Dependencies (currently)
 

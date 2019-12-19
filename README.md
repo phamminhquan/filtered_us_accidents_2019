@@ -6,8 +6,11 @@ US Accicents 2019 dataset is pulled from [Kaggle](https://www.kaggle.com/sobhanm
 
 ## Dependencies (currently)
 
+* csv
 * numpy
 * ipyleaflet
+* IPython.display
+* ipywidgets
 
 ## Format
 
@@ -15,21 +18,18 @@ Jupyter Notebook
 
 ## How To Use
 
-Open up `us_accident.ipynb`. Change input parameters in 5th cell to desried:
+Open up `us_accident.ipynb`.
 
-* `state`
-* `city`
-* `severity`
+RUN ALL
 
-Then RUN ALL
+You can change the location (i.e. state and city) and severity using the widgets on the map after you run the cell.
 
 # Example of rendered map
 
-Here's a map of Jacksonville, FL, severity 4
+Here's a map of Atlanta, GA, severity 4
 
 ![](./example.png)
 
 # TODO:
 
-* Make a GUI by adding widgets and update map based on widgets
 * Efficient coding to reduce runtime

@@ -24,11 +24,15 @@ RUN ALL
 
 You can change the location (i.e. state and city) and severity using the widgets on the map after you run the cell.
 
-# Example of rendered map
+## Example of rendered map
 
 Here's a map of Atlanta, GA, severity 4
 
 ![](./example.png)
+
+## Example of changing location on map
+
+![](./example.gif)
 
 # TODO:
 

@@ -37,3 +37,4 @@ Here's a map of Atlanta, GA, severity 4
 # TODO:
 
 * Efficient coding to reduce runtime
+* Add exception handling
